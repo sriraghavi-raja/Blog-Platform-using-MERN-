@@ -116,7 +116,10 @@ npm start
 
 ## 📸 Screenshots
 
-< Add screenshots here showing the UI >
+![image](https://github.com/user-attachments/assets/4e914085-bac1-4132-800b-fc375df15ce4)
 
----
+![image](https://github.com/user-attachments/assets/6af63b29-1a70-487c-a23b-8a3340096a62)
+
+
+![image](https://github.com/user-attachments/assets/45539174-7899-4c63-beb0-066b24eeb34d)
 
