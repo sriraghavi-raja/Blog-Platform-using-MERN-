@@ -1,0 +1,85 @@
+body {
+  background-color: #121218;
+  color: #eaeaea;
+  font-family: 'Poppins', sans-serif;
+}
+
+.profile-page {
+  padding: 40px 20px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.profile-header {
+  background: #1e1f2b;
+  border-radius: 12px;
+  box-shadow: 0 4px 24px rgba(0, 0, 0, 0.5);
+  padding: 30px;
+  margin-bottom: 30px;
+  border: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+.profile-info h1 {
+  font-size: 2rem;
+  margin-bottom: 10px;
+  color: #ffffff;
+}
+
+.profile-info p {
+  color: #bbb;
+  margin-bottom: 6px;
+}
+
+.profile-tabs {
+  display: flex;
+  border-bottom: 1px solid #2e2f40;
+  margin-bottom: 30px;
+  gap: 1rem;
+}
+
+.tab-btn {
+  padding: 12px 24px;
+  background: transparent;
+  border: none;
+  border-bottom: 3px solid transparent;
+  cursor: pointer;
+  font-size: 1.1rem;
+  color: #aaa;
+  transition: all 0.3s ease;
+}
+
+.tab-btn:hover {
+  color: #ffffff;
+}
+
+.tab-btn.active {
+  color: #00c9ff;
+  border-bottom-color: #00c9ff;
+  font-weight: 600;
+}
+
+.profile-content {
+  background: #1e1f2b;
+  border-radius: 12px;
+  box-shadow: 0 4px 24px rgba(0, 0, 0, 0.5);
+  padding: 30px;
+  border: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+.loading, .error {
+  text-align: center;
+  padding: 40px;
+  font-size: 1.2rem;
+  color: #bbb;
+}
+
+.settings-section h2 {
+  font-size: 1.8rem;
+  margin-bottom: 20px;
+  color: #ffffff;
+}
+
+.settings-section p {
+  color: #ccc;
+  font-size: 1rem;
+}
